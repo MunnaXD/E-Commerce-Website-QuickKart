@@ -1,7 +1,9 @@
 **QuickKart - E-Commerce Website Wireframes:**
+
 QuickKart is a conceptual design for a modern e-commerce website with a focus on intuitive user experience and essential functionalities. This project features wireframes for key pages of the platform, showcasing a seamless shopping journey from browsing to checkout.
 
 **📄 Project Overview:**
+
 This project includes wireframes for the following pages:
 1.	Login Page: Secure and user-friendly login interface for user authentication.
 2.	Home Page: Displays an image carousel, hot deals, product categories, and brand highlights.
@@ -13,9 +15,12 @@ This project includes wireframes for the following pages:
 8.	Profile Page: Includes account management sections such as orders, addresses, payment methods, and contact details.
 
 **🛠 Tools Used:**
+
 •	Wireframes: Designed using Figma.
+
 •	Logo Design: Created using Canva.
 
 **🎯 Purpose:**
+
 This project is designed to demonstrate the core wireframing and UI/UX design principles required to develop a user-friendly e-commerce platform. 
 
