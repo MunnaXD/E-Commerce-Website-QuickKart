@@ -13,8 +13,8 @@ This project includes wireframes for the following pages:
 8.	Profile Page: Includes account management sections such as orders, addresses, payment methods, and contact details.
 
 **🛠 Tools Used:**
-•	Wireframes: Designed using Figma/Adobe XD.
-•	Logo Design: Created using Adobe Photoshop/Illustrator.
+•	Wireframes: Designed using Figma.
+•	Logo Design: Created using Canva.
 
 **🎯 Purpose:**
 This project is designed to demonstrate the core wireframing and UI/UX design principles required to develop a user-friendly e-commerce platform. 
